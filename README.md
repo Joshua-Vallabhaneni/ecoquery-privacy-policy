@@ -41,7 +41,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Information
 If you have questions about this Privacy Policy or EcoQuery's privacy practices, please contact:
-[Your Email Address]
+[pjvallabhaneni@gmail.com](url)
 
 ## Compliance
 This extension complies with:
